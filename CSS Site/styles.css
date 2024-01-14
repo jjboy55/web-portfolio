@@ -1,3 +1,7 @@
 body{
     margin: 0;
 }
+.hero-section{
+    background-color: #bdd8f1;
+    position: relative;
+}
