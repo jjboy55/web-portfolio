@@ -1,7 +1,22 @@
 body{
     margin: 0;
+    text-align: center;
+}
+.cloud-image-top{
+    position: absolute;
+    right: 20em;
+    top: 2em;
+}
+.cloud-image-bottom{
+    position: absolute;
+
 }
 .hero-section{
     background-color: #bdd8f1;
     position: relative;
+    padding-top: 5em;
+}
+h1{
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
